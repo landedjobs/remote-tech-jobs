@@ -1,5 +1,348 @@
 [
   {
+    "dedupeKey": "job:e0e45c56-c042-4c06-a2a7-bb5077c9b1f3",
+    "companyId": "company_ea81fdc5de4724f2281b59e31c18a66b",
+    "company": "Wave Mobile Money",
+    "companyDomain": "wave.com",
+    "role": "Senior IT IAM Engineer",
+    "applyUrl": "https://go.landed.jobs/ug1muyt",
+    "location": "🌐 Remote (Canada, UK, Spain +3)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "security",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-16T21:03:49.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$1.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:4257d04e-d7eb-4388-b18a-df3ae555b7d4",
+    "companyId": "company_f690060d2199c2b83e6e3eb66be19326",
+    "company": "Instacart",
+    "companyDomain": "instacart.com",
+    "role": "Senior Product Designer II - Commerce & Retailer Platform",
+    "applyUrl": "https://go.landed.jobs/2uka1k4",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-16T20:56:36.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S12",
+      "$10.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:c0d2d9c2-21a8-4c48-8ce5-ff575810717d",
+    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
+    "company": "Stripe",
+    "companyDomain": "stripe.com",
+    "role": "Product Manager, Finance Operations",
+    "applyUrl": "https://go.landed.jobs/vaq821v",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "product strategy"
+    ],
+    "posted": "2026-11-16T19:44:04.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S09",
+      "$159B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a5a0a6af-1921-4ed4-92a6-de096de62c2d",
+    "companyId": "company_be5559b6ea506372aa935dccce6c1e50",
+    "company": "Chainguard",
+    "companyDomain": "chainguard.dev",
+    "role": "Senior Product Manager, Partnerships & Integrations",
+    "applyUrl": "https://go.landed.jobs/ghpuijf",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "AI agents",
+      "Snowflake",
+      "AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "posted": "2026-11-16T16:38:09.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$3.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:28f6bb09-bc8c-40e4-9319-792611911138",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Senior AI Enablement Engineer, GTM",
+    "applyUrl": "https://go.landed.jobs/byosjo3",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "go",
+      "LLM"
+    ],
+    "posted": "2026-11-16T14:31:09.551Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:98bdc321-1135-4f1a-94d3-378b693a5bc2",
+    "companyId": "company_84dc88fce520b35dabff64f64af112cb",
+    "company": "Grafana Labs",
+    "companyDomain": "grafana.com",
+    "role": "Engineering Manager - Grafana Productivity (Remote, Canada)",
+    "applyUrl": "https://go.landed.jobs/vz3fst9",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "observability"
+    ],
+    "posted": "2026-11-16T09:40:46.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:6a28c093-1c51-4370-934b-6a0f7e15d484",
+    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
+    "company": "Airwallex",
+    "companyDomain": "airwallex.com",
+    "role": "Senior Associate, Product Success, T:0 (Agentic Finance)",
+    "applyUrl": "https://go.landed.jobs/zjkngrx",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-16T03:54:26.964Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:17f65877-536b-4021-a6d5-d997e0e0bd38",
+    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
+    "company": "Airwallex",
+    "companyDomain": "airwallex.com",
+    "role": "Staff Data Platform Engineer, Knowledge Platform",
+    "applyUrl": "https://go.landed.jobs/7r6dgja",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_engineering",
+    "level": "staff",
+    "skills": [
+      "Airflow",
+      "dbt",
+      "Kafka",
+      "Spark",
+      "BigQuery",
+      "Databricks",
+      "Google Cloud",
+      "Kubernetes"
+    ],
+    "posted": "2026-11-16T02:38:52.604Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:3cfe8f38-ea53-416b-9e80-4228f057f114",
+    "companyId": "company_2b7af83bb366df4cd45b0d05cd7f4084",
+    "company": "Assort Health",
+    "companyDomain": "assorthealth.com",
+    "role": "Product Manager, AI Agents",
+    "applyUrl": "https://go.landed.jobs/gnrvdxc",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "mid",
+    "skills": [
+      "AI agents",
+      "LLM"
+    ],
+    "posted": "2026-11-16T00:19:23.303Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp HealthTech 50",
+      "$1.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5ea63595-d6ed-479e-8192-bf393382c34c",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Full Stack Software Engineer, Travel",
+    "applyUrl": "https://go.landed.jobs/j3dwjpx",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-15T21:10:17.443Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5bdbf903-9e36-4d53-ab7d-7a546c24c6a7",
+    "companyId": "company_2ecd839dec11f6fd9509fde34d00f5eb",
+    "company": "Black Forest Labs",
+    "companyDomain": "bfl.ai",
+    "role": "Member of Technical Staff - Infrastructure Security",
+    "applyUrl": "https://go.landed.jobs/7tmfbdi",
+    "location": "🌐 Remote (US, Germany)",
+    "locations": [
+      "San Francisco, CA",
+      "Freiburg, Germany"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "security",
+    "level": "staff",
+    "skills": [
+      "distributed systems",
+      "LLMs",
+      "Kubernetes"
+    ],
+    "posted": "2026-11-15T09:06:53.630Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$3.3B valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:3df4dc37-58ec-41ad-8bc1-a2faf468aa5f",
+    "companyId": "company_2ecd839dec11f6fd9509fde34d00f5eb",
+    "company": "Black Forest Labs",
+    "companyDomain": "bfl.ai",
+    "role": "Member of Technical Staff - Workforce Security",
+    "applyUrl": "https://go.landed.jobs/8itxotl",
+    "location": "🌐 Remote (US, Germany)",
+    "locations": [
+      "San Francisco, CA",
+      "Freiburg, Germany"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "security",
+    "level": "staff",
+    "skills": [
+      "LLMs"
+    ],
+    "posted": "2026-11-15T09:06:45.491Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$3.3B valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:e8d33756-24dc-4c78-9929-836d348446a9",
+    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
+    "company": "Airwallex",
+    "companyDomain": "airwallex.com",
+    "role": "Senior Software Engineer, Data Platform & AI Enablement",
+    "applyUrl": "https://go.landed.jobs/wm3bqwd",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "distributed systems",
+      "Java",
+      "Kotlin",
+      "Go",
+      "Kafka",
+      "Spark",
+      "Kubernetes",
+      "Databricks"
+    ],
+    "posted": "2026-11-15T06:49:48.727Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:a06445c9-348a-40c3-a32a-44553a6186c8",
     "companyId": "company_38c0d1a14d4a7fad161691eab805119e",
     "company": "Samsara",
@@ -125,7 +468,7 @@
     "companyId": "company_1292549a067bf7a29628650dc453183d",
     "company": "Halcyon",
     "companyDomain": "halcyon.ai",
-    "role": "Senior Information Security Specialist",
+    "role": "Senior Security Compliance Engineer (GRC / SOC 2)",
     "applyUrl": "https://go.landed.jobs/avxt4nd",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -1189,7 +1532,7 @@
     "companyId": "company_bd18ae6d39b447a082faf0dd691f980b",
     "company": "Lyra Health",
     "companyDomain": "lyrahealth.com",
-    "role": "Sr. Clinical Product Manager",
+    "role": "Sr. Clinical Product Manager (Phd/PsyD)",
     "applyUrl": "https://go.landed.jobs/fknzs8c",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -2286,7 +2629,7 @@
     "companyId": "company_73c5b22543ad193450c63b7bb6b31735",
     "company": "Tekion Corp",
     "companyDomain": "tekion.com",
-    "role": "Account Executive - Saas Solutions",
+    "role": "Pre Sales Consultant",
     "applyUrl": "https://go.landed.jobs/vt1ntlh",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -2967,32 +3310,6 @@
     ]
   },
   {
-    "dedupeKey": "job:f9ab1157-5bc4-4f86-b7c8-9dc7657114ad",
-    "companyId": "company_84dc88fce520b35dabff64f64af112cb",
-    "company": "Grafana Labs",
-    "companyDomain": "grafana.com",
-    "role": "Director, Observability Architects (Americas) | USA | Remote",
-    "applyUrl": "https://go.landed.jobs/8cqcri0",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "director",
-    "skills": [
-      "observability",
-      "go"
-    ],
-    "posted": "2026-11-12T17:07:40.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Open Source 50",
-      "$6B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:34ee40e0-8477-443d-925b-91014090ea24",
     "companyId": "company_f690060d2199c2b83e6e3eb66be19326",
     "company": "Instacart",
@@ -3064,53 +3381,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:38bd3d91-4f06-4d31-abff-5a128978a560",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Security Incident Response Team Manager",
-    "applyUrl": "https://go.landed.jobs/pvmdbjs",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-12T16:57:25.001Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e268a45f-fcc9-4067-9220-522e317453df",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "Attorney, Evaluation Operations (Contract)",
-    "applyUrl": "https://go.landed.jobs/b72a3mv",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Remote"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-12T16:42:56.440Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
     ]
   },
   {
@@ -4761,35 +5031,6 @@
     ]
   },
   {
-    "dedupeKey": "job:5f6f2340-cb3a-4a0b-92d2-e96ad3f9d58a",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Principal/Distinguished, Applied AI Architect — Financial Services Regulated Industries Architecture (Internal Only)",
-    "applyUrl": "https://go.landed.jobs/thrz3va",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Chicago, IL",
-      "New York City, NY",
-      "California, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "principal",
-    "skills": [
-      "Salesforce",
-      "LLM",
-      "agent orchestration"
-    ],
-    "posted": "2026-11-11T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:6601eb4c-4f03-4690-81b1-ce35327219d0",
     "companyId": "company_6268792d1010ee198befb473acab3907",
     "company": "Salesforce",
@@ -4866,6 +5107,34 @@
     "companyBadges": [
       "TrueUp Remote 200",
       "$7.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:961d5614-a949-4531-a1f8-fdc35f93719c",
+    "companyId": "company_6268792d1010ee198befb473acab3907",
+    "company": "Salesforce",
+    "companyDomain": "salesforce.com",
+    "role": "Life Sciences Product Liaison Director",
+    "applyUrl": "https://go.landed.jobs/25fbadf",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Indianapolis, IN",
+      "Tampa, FL",
+      "Washington, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "director",
+    "skills": [
+      "Salesforce",
+      "AI agents"
+    ],
+    "posted": "2026-11-11T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$151B valuation"
     ]
   },
   {
@@ -5071,7 +5340,7 @@
     "companyId": "company_08a07ef1a38da36f3dd7ae9ba6b2e71c",
     "company": "Temporal Technologies",
     "companyDomain": "temporal.io",
-    "role": "Senior Developer Success Engineer - East",
+    "role": "Senior Developer Success Engineer",
     "applyUrl": "https://go.landed.jobs/7z73p4k",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -5530,29 +5799,6 @@
     ]
   },
   {
-    "dedupeKey": "job:0797f772-8c7f-47df-94b0-cc42458d1650",
-    "companyId": "company_f690060d2199c2b83e6e3eb66be19326",
-    "company": "Instacart",
-    "companyDomain": "instacart.com",
-    "role": "Senior Product Manager, Instacart Business - Growth",
-    "applyUrl": "https://go.landed.jobs/0smj2vt",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-10T17:54:25.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S12",
-      "$10.8B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:9405e639-617a-4065-9132-066620c18f45",
     "companyId": "company_e215e7f0632b5dcf7cfe0ddc13e85c35",
     "company": "ŌURA",
@@ -5635,7 +5881,7 @@
     "companyId": "company_08a07ef1a38da36f3dd7ae9ba6b2e71c",
     "company": "Temporal Technologies",
     "companyDomain": "temporal.io",
-    "role": "Staff Solutions Architect, Banking (US)",
+    "role": "Staff Solutions Architect, Banking",
     "applyUrl": "https://go.landed.jobs/gehmncm",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -5659,7 +5905,7 @@
     "companyId": "company_232d07379862df60a068702fb4788114",
     "company": "Defense Unicorns",
     "companyDomain": "defenseunicorns.com",
-    "role": "Senior AI Engineer (FedD239)",
+    "role": "Senior AI Engineer",
     "applyUrl": "https://go.landed.jobs/vabrjsr",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -5790,39 +6036,6 @@
       "penetration testing"
     ],
     "posted": "2026-11-10T16:10:53.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$3.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:00c06266-8b62-45e3-a058-40c9f8e2b26a",
-    "companyId": "company_be5559b6ea506372aa935dccce6c1e50",
-    "company": "Chainguard",
-    "companyDomain": "chainguard.dev",
-    "role": "Staff Product Security Engineer",
-    "applyUrl": "https://go.landed.jobs/4ql5ov2",
-    "location": "🌐 Remote (UK, US)",
-    "locations": [
-      "UK",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "staff",
-    "skills": [
-      "AI agents",
-      "Snowflake",
-      "Python",
-      "Go",
-      "Kubernetes",
-      "AWS",
-      "CI/CD",
-      "penetration testing"
-    ],
-    "posted": "2026-11-10T16:08:26.000Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hot 200",
@@ -6162,63 +6375,12 @@
     ]
   },
   {
-    "dedupeKey": "job:306535ef-a621-4954-b3ec-f901c5d87059",
-    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
-    "company": "Stripe",
-    "companyDomain": "stripe.com",
-    "role": "Solutions Architect, Metronome (AI Native)",
-    "applyUrl": "https://go.landed.jobs/dqtuxtl",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "staff",
-    "skills": [
-      "MongoDB",
-      "Salesforce"
-    ],
-    "posted": "2026-11-09T22:53:24.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S09",
-      "$159B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9a801a8e-e48e-4a37-86ea-8ad0b49cf0d0",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Senior Information Systems Security Officer, NGC2",
-    "applyUrl": "https://go.landed.jobs/zbopyxa",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Costa Mesa, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "senior",
-    "skills": [
-      "Kubernetes"
-    ],
-    "posted": "2026-11-09T22:41:45.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:59dd9de9-a51a-4ada-ac53-f49f251f7917",
-    "companyId": "company_b56af5d564bb1f330e9c8db07a625d1f",
-    "company": "Horizon3.ai",
-    "companyDomain": "horizon3.ai",
-    "role": "Senior Research Staff, Adversarial Intelligence",
-    "applyUrl": "https://go.landed.jobs/4wsg6zl",
+    "dedupeKey": "job:0219b077-803f-49f5-b664-01b1d56ea4cd",
+    "companyId": "company_65dc592b9569a8a2463ae6163414b108",
+    "company": "Iovance Biotherapeutics",
+    "companyDomain": "iovance.com",
+    "role": "Vice President, Clinical Development",
+    "applyUrl": "https://go.landed.jobs/a2hadg2",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -6226,133 +6388,76 @@
     "remote": "remote",
     "region": "remote",
     "family": "research_science",
-    "level": "staff",
-    "skills": [
-      "agentic systems",
-      "distributed systems",
-      "penetration testing",
-      "large language models"
-    ],
-    "posted": "2026-11-09T22:36:14.783Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:83f6996d-dd5b-4b34-b6ee-01d18b88aee4",
-    "companyId": "company_9003f84908b2ab812c7de8c1718df6fc",
-    "company": "Commure",
-    "companyDomain": "commure.com",
-    "role": "Senior Engineering Manager, Ambient Product",
-    "applyUrl": "https://go.landed.jobs/05bo3vj",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "distributed systems"
-    ],
-    "posted": "2026-11-09T22:20:35.329Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp HealthTech 50",
-      "$7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:35be6b0a-6f3f-4736-82a4-50b58af426c5",
-    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
-    "company": "Stripe",
-    "companyDomain": "stripe.com",
-    "role": "Head of Strategic Accounts, Solutions Architecture",
-    "applyUrl": "https://go.landed.jobs/wdttbg5",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "director",
+    "level": "vp",
     "skills": [],
-    "posted": "2026-11-09T21:54:55.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T21:40:10.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "YC S09",
-      "$159B valuation"
+      "$4.2B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:e3f3c0d6-68b3-4462-9bb7-106cff4bb7bc",
-    "companyId": "company_7b7ac5b9ed9a1292635281452d65a6eb",
-    "company": "Speak",
-    "companyDomain": "speak.com",
-    "role": "Product Lead, Learning Technology",
-    "applyUrl": "https://go.landed.jobs/aah77sb",
+    "dedupeKey": "job:7046956e-e317-4bde-9081-fe0b934f110f",
+    "companyId": "company_6c4ffcdf661240c1dadba7b4cbf427bc",
+    "company": "Qualia",
+    "companyDomain": "qualia.com",
+    "role": "Information Security Engineer",
+    "applyUrl": "https://go.landed.jobs/cp2w2yb",
     "location": "🌐 Remote (US)",
     "locations": [
+      "Austin, TX",
+      "Concord, NH",
       "San Francisco, CA"
     ],
     "remote": "remote",
     "region": "remote",
-    "family": "product_management",
-    "level": "director",
+    "family": "security",
+    "level": "mid",
     "skills": [
-      "LLMs",
-      "recommendation systems",
-      "model evaluation"
+      "LLM"
     ],
-    "posted": "2026-11-09T20:58:29.757Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T21:22:55.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "YC W17",
-      "$1B valuation"
+      "TrueUp Real Estate Tech 50",
+      "$2.2B valuation"
     ]
   },
   {
-    "dedupeKey": "job:429dd93e-60dd-4547-8326-e9bdbd692601",
-    "companyId": "company_203dd412c0f10c21e81c3aca3e7b791a",
-    "company": "1Password",
-    "companyDomain": "1password.com",
-    "role": "Senior Developer, Billing Platform",
-    "applyUrl": "https://go.landed.jobs/bwwq9wh",
+    "dedupeKey": "job:0293241a-1654-4f49-a815-9ae8865fb20e",
+    "companyId": "company_d0e5eb86968dc40248fc2e540a10fd4b",
+    "company": "Kin",
+    "companyDomain": "kin.com",
+    "role": "Senior Analyst, Attribute Analytics (Imagery & Property Data)",
+    "applyUrl": "https://go.landed.jobs/qbhm6qi",
     "location": "🌐 Remote (Canada, US)",
     "locations": [
-      "US",
-      "Canada"
+      "US"
     ],
     "remote": "remote",
     "region": "remote",
-    "family": "software_engineering",
+    "family": "ai_machine_learning",
     "level": "senior",
     "skills": [
-      "AI agents",
-      "product strategy",
-      "payment processing",
-      "Go"
+      "Python",
+      "SQL",
+      "computer vision"
     ],
-    "posted": "2026-11-09T20:43:46.811Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T19:17:16.178Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Security 50",
-      "$6.8B valuation"
+      "$2B valuation",
+      "Series E"
     ]
   },
   {
-    "dedupeKey": "job:c5d1529d-b2ab-4f24-907f-2080d6a44283",
-    "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
-    "company": "Affirm",
-    "companyDomain": "affirm.com",
-    "role": "Senior Software Engineer, Backend (Trust & Safety)",
-    "applyUrl": "https://go.landed.jobs/mmjowhm",
+    "dedupeKey": "job:09480232-a9af-4177-98ed-139a64d7cf77",
+    "companyId": "company_220909dc28d23739fe4ba8eb6a06df6c",
+    "company": "Life360",
+    "companyDomain": "life360.com",
+    "role": "Senior Firmware Engineer II (AI Native)",
+    "applyUrl": "https://go.landed.jobs/ryknhd2",
     "location": "🌐 Remote (US, Canada)",
     "locations": [
       "US",
@@ -6363,14 +6468,150 @@
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "Python",
-      "Kotlin"
+      "C++"
     ],
-    "posted": "2026-11-09T19:25:30.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T19:04:57.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Remote 200",
-      "$23.9B valuation"
+      "$6.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:bfb92d44-5b2b-4372-9179-7f36ba2ad0ec",
+    "companyId": "company_6ec584c4f8842dcd65aca977e25d6097",
+    "company": "Snorkel AI",
+    "companyDomain": "snorkel.ai",
+    "role": "Senior Manager, Forward Deployed Engineering",
+    "applyUrl": "https://go.landed.jobs/m7g0mj6",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "LLM",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-11-16T17:17:20.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.3B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:aa53021f-1849-4547-b9e1-151ebd3af1e1",
+    "companyId": "company_65dc592b9569a8a2463ae6163414b108",
+    "company": "Iovance Biotherapeutics",
+    "companyDomain": "iovance.com",
+    "role": "Director, AI Product Engineering",
+    "applyUrl": "https://go.landed.jobs/pis7xn5",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "LLM",
+      "observability",
+      "agentic systems",
+      "Databricks",
+      "AWS",
+      "CI/CD"
+    ],
+    "posted": "2026-11-16T14:22:37.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.2B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:fe8704c4-8ecd-4c41-adec-b3f5101b42a1",
+    "companyId": "company_712d2c53358bba86cbb4794332e4bd96",
+    "company": "6sense",
+    "companyDomain": "6sense.com",
+    "role": "Sr. Product Manager",
+    "applyUrl": "https://go.landed.jobs/epccppa",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-16T14:00:34.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.2B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:8c0ac197-7b9a-4112-a41d-c57c75a436c0",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "SASE Solutions Engineer",
+    "applyUrl": "https://go.landed.jobs/6woixsj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Indianapolis, IN",
+      "Ann Arbor, MI",
+      "Chicago, IL",
+      "Clayton, MO",
+      "Nashville, TN",
+      "Richfield, OH"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:5dc03bd6-593d-4a8a-b513-6f664912851b",
+    "companyId": "company_49ae40f098b6e1be8c89328d2d67f4e7",
+    "company": "Kyndryl",
+    "companyDomain": "kyndryl.com",
+    "role": "Senior Marketing Analytics Lead",
+    "applyUrl": "https://go.landed.jobs/4hc2kem",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "Salesforce",
+      "marketing automation"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3B valuation",
+      "Public"
     ]
   },
   {
@@ -7510,6 +7751,36 @@
     ]
   },
   {
+    "dedupeKey": "job:6ba42758-831e-4483-a815-ed8c7d2d850b",
+    "companyId": "company_d7b824f4372bb3451701af40e8055d08",
+    "company": "Thomson Reuters",
+    "companyDomain": "thomsonreuters.com",
+    "role": "Legal AI Engineer, Strategic Accounts - Mid Law",
+    "applyUrl": "https://go.landed.jobs/squxrrt",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Eagan, MN",
+      "New York City, NY",
+      "Ann Arbor, MI",
+      "Los Angeles, CA",
+      "Frisco, TX",
+      "Chicago, IL",
+      "Washington, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "developer_relations_solutions",
+    "level": "senior",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:6c7cc9e4-7d48-4b17-b99f-5a5972617558",
     "companyId": "company_da51505795a3f650af3f7423264a3526",
     "company": "Motorola Solutions",
@@ -7591,6 +7862,34 @@
     "companyBadges": [
       "$1.7B valuation",
       "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:8530809d-1cff-44eb-944a-f2d6a5106a54",
+    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
+    "company": "Bms",
+    "companyDomain": "bms.com",
+    "role": "Data & Quantitative Sciences Statistical Programming Intern - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/m2ez4w4",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Princeton, NJ",
+      "Madison, NJ",
+      "Brisbane, CA",
+      "San Diego, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "large language models"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -7985,316 +8284,6 @@
     "companyBadges": [
       "$1.7B valuation",
       "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:ded8098e-decb-4b8f-96d0-7178d219bc22",
-    "companyId": "company_20751c6afb30b56e8243e199076331ba",
-    "company": "CDW",
-    "companyDomain": "cdw.com",
-    "role": "Sr Solution Architect - Ohio Valley",
-    "applyUrl": "https://go.landed.jobs/ckkoex9",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Indiana, IN",
-      "Michigan, MI",
-      "Ohio, OH"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$18.9B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:f7e797d1-8d7d-4a0d-b870-aae91000079d",
-    "companyId": "company_f4112297bde526565396dc2948761c42",
-    "company": "Cloudera",
-    "companyDomain": "cloudera.com",
-    "role": "Engineering Manager - Enterprise AI",
-    "applyUrl": "https://go.landed.jobs/amteh5h",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Florida, FL",
-      "Virginia, VA",
-      "North Carolina, NC",
-      "Michigan, MI"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Java",
-      "Go",
-      "Scala",
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "SQL",
-      "gRPC",
-      "microservices",
-      "Kubernetes",
-      "Python",
-      "Spark"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "TrueUp Open Source 50",
-      "$5.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:fa65c5e0-f3bd-433a-821b-5ca66ba6a6ae",
-    "companyId": "company_e80c8869b6e03f3d446ce68355dd2e76",
-    "company": "H2O.ai",
-    "companyDomain": "h2o.ai",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/4oq3g6v",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Denver, CO"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Kubernetes",
-      "Docker",
-      "CI/CD",
-      "Python",
-      "Java",
-      "Go",
-      "TypeScript",
-      "React",
-      "PostgreSQL",
-      "gRPC",
-      "Spark"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.7B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:ffcef252-3a01-4fdb-8f7b-4538b2a05eaf",
-    "companyId": "company_438cd59b0714655b3b128e2dff6daebc",
-    "company": "Cigna",
-    "companyDomain": "cigna.com",
-    "role": "Data Science Director - Remote",
-    "applyUrl": "https://go.landed.jobs/vqseddm",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "Raleigh, NC"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "director",
-    "skills": [
-      "model evaluation",
-      "Python",
-      "SQL",
-      "Spark",
-      "Databricks"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5e4f324d-d912-47ea-bbea-0554dc20ff5a",
-    "companyId": "company_305830ecb58dbaa3bb30f70feeccff0e",
-    "company": "Polygon Technology",
-    "companyDomain": "polygon.technology",
-    "role": "AI Platform Engineer",
-    "applyUrl": "https://go.landed.jobs/v4ggezu",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "observability",
-      "agentic workflows"
-    ],
-    "posted": "2026-11-12T23:50:17.718Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2B valuation",
-      "Late stage"
-    ]
-  },
-  {
-    "dedupeKey": "job:8f689729-2a7d-4aa2-93a3-d36c5b68452d",
-    "companyId": "company_8d307abe32d40a27b0bfea35d0c84bd1",
-    "company": "Stedi",
-    "companyDomain": "stedi.com",
-    "role": "Solutions Engineer",
-    "applyUrl": "https://go.landed.jobs/laky99j",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-11-12T23:39:46.246Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:6ee2da6c-79d2-4077-9108-ac1967060100",
-    "companyId": "company_9b192260b5b6c2bcefeca834e488f720",
-    "company": "Oscar Health",
-    "companyDomain": "hioscar.com",
-    "role": "Senior Product Designer, Personalization",
-    "applyUrl": "https://go.landed.jobs/592k1ux",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Boston, MA",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "product strategy"
-    ],
-    "posted": "2026-11-12T23:39:01.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$9.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:35f442aa-cf71-442b-8236-3b60a4e73c2f",
-    "companyId": "company_9b192260b5b6c2bcefeca834e488f720",
-    "company": "Oscar Health",
-    "companyDomain": "hioscar.com",
-    "role": "Senior Product Designer, Personalization",
-    "applyUrl": "https://go.landed.jobs/f636my0",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "product strategy"
-    ],
-    "posted": "2026-11-12T23:38:57.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$9.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5a5a32d7-596e-4e0f-b5f5-810c6ab13f4c",
-    "companyId": "company_6f074450242b189eb95b5cf6f2222b34",
-    "company": "Omada Health",
-    "companyDomain": "omadahealth.com",
-    "role": "Clinical Research Scientist",
-    "applyUrl": "https://go.landed.jobs/n25gshi",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-12T23:26:08.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:94f14b03-87e3-4f7e-9731-c1cc021388a2",
-    "companyId": "company_26b9cccfe247fdbad310d5b6fa03f8f0",
-    "company": "Docker, Inc",
-    "companyDomain": "docker.com",
-    "role": "Director, Product Management, Sandbox",
-    "applyUrl": "https://go.landed.jobs/ghlnx9m",
-    "location": "🌐 Remote (Canada, US)",
-    "locations": [
-      "Canada",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "director",
-    "skills": [
-      "Go",
-      "Docker",
-      "AI agents",
-      "product strategy"
-    ],
-    "posted": "2026-11-12T22:08:26.650Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.1B valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:de00c394-d5b5-4c15-bc78-7df9daf9e8f5",
-    "companyId": "company_80ca3be7888c02329b03b84501cb830a",
-    "company": "Qualtrics",
-    "companyDomain": "qualtrics.com",
-    "role": "Solution Consulting Manager - NA ENT",
-    "applyUrl": "https://go.landed.jobs/p422qkj",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US",
-      "Provo, UT"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "large language models"
-    ],
-    "posted": "2026-11-12T22:04:13.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$12.5B valuation"
     ]
   }
 ]
