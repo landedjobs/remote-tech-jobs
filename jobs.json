@@ -5997,31 +5997,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a1735ee6-5391-4c90-baf8-af3183687c51",
-    "companyId": "company_2850c63e689edcaa231eb52428097527",
-    "company": "SecurityScorecard",
-    "companyDomain": "securityscorecard.com",
-    "role": "Staff IT Engineer, Security & GRC",
-    "applyUrl": "https://go.landed.jobs/0g7bly7",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "staff",
-    "skills": [
-      "SOC 2"
-    ],
-    "posted": "2026-11-18T19:59:20.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$900M valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:54a701a0-04c5-46a8-9ed4-46263c822a30",
     "companyId": "company_d4f5eb75d569c4b7ff8cb97b70663330",
     "company": "Lithic",
@@ -8238,6 +8213,39 @@
       "PostgreSQL",
       "LLM",
       "Azure"
+    ],
+    "posted": "2026-11-21T00:22:02.123Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC F25",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:48979ba6-b105-4b9e-9386-1957dc614b08",
+    "companyId": "company_9133086fc8f19d3239d65091f2eeb581",
+    "company": "MSPilot",
+    "companyDomain": "mspilot.io",
+    "role": "Junior Software Engineer (New Grad)",
+    "applyUrl": "https://go.landed.jobs/phvowt9",
+    "location": "🌐 Remote (US, Ukraine, Poland)",
+    "locations": [
+      "San Francisco, CA",
+      "Lviv, Ukraine",
+      "Kraków, Poland"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "rails",
+      "AI agents",
+      "js",
+      "React",
+      "Next.js",
+      "PostgreSQL",
+      "LLM"
     ],
     "posted": "2026-11-21T00:22:02.123Z",
     "companyTier": "B",
